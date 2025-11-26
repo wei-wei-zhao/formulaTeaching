@@ -1,0 +1,5 @@
+{
+  "name": "Copy of MathGenius AI - 智能数学图形教学",
+  "description": "一个类似 GeoGebra 的数学教学工具，提供函数可视化、参数调整，并集成 Gemini AI 作为智能助教，帮助学生理解数学化学物理概念",
+  "requestFramePermissions": []
+}
